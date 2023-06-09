@@ -1,0 +1,1 @@
+This list of exercices was collected from the https://doc.rust-lang.org/rust-by-example/index.html web site.
