@@ -101,9 +101,6 @@ fn main() {
     // Ok! `_mutable_integer` is not frozen in this scope
     _mutable_integer = 3;
 
-
-
-
 }
 
 
